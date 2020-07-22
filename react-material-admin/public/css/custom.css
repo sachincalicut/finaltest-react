@@ -1,0 +1,30 @@
+.nav-tabs{
+    border-bottom: 0px transparent;
+}
+.form-control{
+    border:0px transparent;
+}
+#users{
+    width:100%;
+}
+
+#users thead  tr {
+    padding: 12px 8px !important;
+    vertical-align: middle;
+    border-color: #ddd;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 34px;
+    color: #292929;
+    border-bottom: 1px solid #ddd;
+}
+#users tbody td{
+    padding: 6px 17px;
+}
+#users td{
+    margin-top: 20px;
+    padding: 7px 0px;
+}
+#userList .MuiPaper-elevation2{
+    box-shadow: none;
+}
